@@ -47,7 +47,7 @@ No trabalho 5 de Projeto de Algoritmos, no módulo sobre Programação Dinâmica
 - [Vídeo - Explicação](https://youtu.be/H1dASBMS_hU)
 
 <div align="left">
-  <img src="" width="700" alt="Questao 87">
+  <img src="https://github.com/user-attachments/assets/116b4489-22a5-4610-8420-d2b6994c746f" width="700" alt="Questao 87">
   <br>
     <em>Imagem 1 - Questão 87</em>
 
@@ -60,9 +60,11 @@ No trabalho 5 de Projeto de Algoritmos, no módulo sobre Programação Dinâmica
 - [Vídeo - Explicação](https://youtu.be/H1dASBMS_hU)
 
 <div align="left">
-  <img src="" width="700" alt="Questao 97">
+  <img src="https://github.com/user-attachments/assets/67f0f786-0fb1-4f4d-8fe5-f11e0c741a1d" width="700" alt="Questao 97">
   <br>
     <em>Imagem 2 - Questão 97</em>
 
 </div> 
+
+
 
