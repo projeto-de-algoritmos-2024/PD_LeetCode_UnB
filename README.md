@@ -39,3 +39,30 @@ No trabalho 5 de Projeto de Algoritmos, no módulo sobre Programação Dinâmica
     <em>Imagem 2 - Questão 518</em>
 
 </div> 
+
+### 87. Scramble String (Difícil)
+
+- [Link da Questão](https://leetcode.com/problems/scramble-string/description/?envType=problem-list-v2&envId=dynamic-programming)
+
+- [Vídeo - Explicação](https://youtu.be/H1dASBMS_hU)
+
+<div align="left">
+  <img src="" width="700" alt="Questao 87">
+  <br>
+    <em>Imagem 1 - Questão 87</em>
+
+</div> 
+
+### 97. Interleaving String (Média)
+
+- [Link da Questão](https://leetcode.com/problems/interleaving-string/description/?envType=problem-list-v2&envId=dynamic-programming)
+
+- [Vídeo - Explicação](https://youtu.be/H1dASBMS_hU)
+
+<div align="left">
+  <img src="" width="700" alt="Questao 97">
+  <br>
+    <em>Imagem 2 - Questão 97</em>
+
+</div> 
+
