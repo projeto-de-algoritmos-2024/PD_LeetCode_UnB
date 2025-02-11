@@ -49,7 +49,7 @@ No trabalho 5 de Projeto de Algoritmos, no módulo sobre Programação Dinâmica
 <div align="left">
   <img src="https://github.com/user-attachments/assets/116b4489-22a5-4610-8420-d2b6994c746f" width="700" alt="Questao 87">
   <br>
-    <em>Imagem 1 - Questão 87</em>
+    <em>Imagem 3 - Questão 87</em>
 
 </div> 
 
@@ -57,12 +57,12 @@ No trabalho 5 de Projeto de Algoritmos, no módulo sobre Programação Dinâmica
 
 - [Link da Questão](https://leetcode.com/problems/interleaving-string/description/?envType=problem-list-v2&envId=dynamic-programming)
 
-- [Vídeo - Explicação](https://youtu.be/H1dASBMS_hU)
+- [Vídeo - Explicação](https://youtu.be/H1dASBMS_hU?t=269) **a partir do minuto 4:28**
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/67f0f786-0fb1-4f4d-8fe5-f11e0c741a1d" width="700" alt="Questao 97">
   <br>
-    <em>Imagem 2 - Questão 97</em>
+    <em>Imagem 4 - Questão 97</em>
 
 </div> 
 
